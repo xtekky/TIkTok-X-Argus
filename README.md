@@ -2,7 +2,7 @@
 ## Reversing the Argus Algorithm
 
 X-Argus Api (also includes Mssdk)
-- https://tikultra.com
+- https://tikultra.com?ref=xa
 
 ```js
 
