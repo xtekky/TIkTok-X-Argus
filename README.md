@@ -2,7 +2,7 @@
 ## Reversing the Argus Algorithm
 
 X-Argus Api (also includes Mssdk)
-- https://rapidapi.com/tiktok-api-development-tiktok-api-development-default/api/tiktok-services1
+- https://tikultra.com
 
 ```js
 
